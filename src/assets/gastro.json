@@ -1,0 +1,22 @@
+[
+	{
+		"image":"gs1.jpg",
+		"footText":"Udon",
+		"description":"El udon (うどん; 饂飩?) es un tipo de fideo grueso hecho de harina de trigo, popular en la comida japonesa. Fue inventado en Japón en el siglo vi. Este udon original tenía de 6 a 8 mm de diámetro, era una tortilla plana en forma de 'fideo' añadido a la sopa de miso."
+	},
+	{
+		"image":"gs2.jpg",
+		"footText":"Sushi",
+		"description":"Sushi (鮨, 鮓, 寿司 o 壽司1​?) es un plato típico de origen japonés basado en arroz aderezado con vinagre de arroz, azúcar y sal y combinado con otros ingredientes como pescados crudos, mariscos, verduras, etc.2​3​4​ Este plato es uno de los más reconocidos de la gastronomía japonesa y uno de los más populares internacionalmente."
+	},
+	{
+		"image":"gs3.jpg",
+		"footText":"Soba",
+		"description":"Soba (蕎麦?) es la palabra japonesa para el trigo sarraceno (alforfón), sin embargo, se utiliza más comúnmente para referirse a los fideos finos empleados en la cocina japonesa elaborados con harina de dicho grano. Se sirven fríos con una salsa o caldo en que se los sumerge, o en caldo caliente como el ramen. Por otra parte, es muy común en Japón referirse a los fideos finos como soba en contraste con los udon, que son tallarines gruesos elaborados con harina de trigo."
+	},
+	{
+		"image":"gs4.jpg",
+		"footText":"Tempura",
+		"description":"El tempura se refiere a la fritura rápida típica japonesa[cita requerida], en especial a los mariscos y verduras, que fue introducida por los portugueses en el siglo xvi. En restaurantes destacados se suele utilizar aceite de sésamo o una mezcla de este aceite con otros. Antes de llevarse el trozo a la boca suele mojarse en una salsa (Tentsuyu) hecha a base de caldo, salsa de soja y sake dulce al que se le agrega ralladura de jengibre, ralladura de rábano y especias."
+	}
+]

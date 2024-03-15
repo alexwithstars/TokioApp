@@ -1,0 +1,29 @@
+.link{
+	display: flex;
+	align-items: center;
+	height: 60px;
+	padding:10px 15px 10px 0;
+	background: linear-gradient(-45deg,#282828,#282828);
+	color: #fff;
+	border-radius: 15px;
+	border:2px solid #aaa;
+	gap: 10px;
+	cursor: pointer;
+}
+.link-title{
+	margin-top: -0.5ch;
+}
+.link-image{
+	height: 100%;
+	aspect-ratio: 1/1;
+	object-fit: cover;
+	object-position: center;
+	border-radius: 5px;
+	scale: 2;
+	margin-right: 20px;
+	box-shadow: 0 0 15px 2px #0008;
+}
+.link-arrow{
+	height: 80%;
+	aspect-ratio: 1/1;
+}

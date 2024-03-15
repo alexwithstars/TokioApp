@@ -1,0 +1,22 @@
+[
+	{
+		"image":"tr1.jpg",
+		"footText":"Templo Gokoku-ji",
+		"place":"https://maps.app.goo.gl/yrC9ekUMqggXD17k9"
+	},
+	{
+		"image":"tr4.jpg",
+		"footText":"Sensō-ji",
+		"place":"https://maps.app.goo.gl/X9yxdTNuwK1kCoGN8"
+	},
+	{
+		"image":"tr3.jpg",
+		"footText":"Parque nacional de Fuji-Hakone-Izu",
+		"place":"https://maps.app.goo.gl/PbrNY4sGuTvN2j7v9"
+	},
+	{
+		"image":"tr2.jpg",
+		"footText":"Museo Nacional de Arte Occidental",
+		"place":"https://maps.app.goo.gl/x2n14idRLNTSu71TA"
+	}
+]

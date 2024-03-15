@@ -1,0 +1,16 @@
+.paragraph{
+	width: clamp(400px,60%,700px);
+	padding: 0 50px;
+	text-wrap: pretty;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	gap: 15px;
+}
+.paragraph > hr{
+	width: 100%;
+}
+.paragraph-header{
+	margin-top: 20px;
+	font-size: 24px;
+}

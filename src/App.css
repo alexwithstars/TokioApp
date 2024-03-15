@@ -1,0 +1,33 @@
+#root{
+	height: 100%;
+	width: 100%;
+	padding: 75px 0;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 60px;
+	overflow: auto;
+}
+.app-header{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+	gap: 25px;
+}
+.app-logo{
+	width: 350px;
+	background: #fffa;
+	border-radius: 20px;
+	padding: 20px;
+}
+.app-title{
+	font-size: 72px;
+}
+.app-links{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap: 45px;
+	padding: 20px;
+}

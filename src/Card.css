@@ -1,0 +1,26 @@
+.card{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	width: fit-content;
+	max-width: 500px;
+	padding: 15px;
+	border-radius: 10px;
+	background-color: #333;
+	box-shadow: 0 0 10px #0004;
+	gap: 10px;
+}
+.card-img{
+	max-width: 100%;
+	height: 250px;
+	object-fit: cover;
+	object-position: center;
+	border-radius: 5px;
+	box-shadow: 0 0 10px #0004;
+}
+.card-footText{
+	color: #ccc;
+	text-wrap: pretty;
+	font-weight: 600;
+}
