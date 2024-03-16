@@ -1,9 +1,9 @@
 import {Routes,Route} from "react-router-dom"
-import { Home } from "./Home.jsx"
-import { Turismo } from "./Turismo.jsx"
-import { Cultura } from "./Cultura.jsx"
-import { Historia } from "./Historia.jsx"
-import { Gastronomia } from "./Gastronomia.jsx"
+import { Home } from "./Home"
+import { Turismo } from "./Turismo"
+import { Cultura } from "./Cultura"
+import { Historia } from "./Historia"
+import { Gastronomia } from "./Gastronomia"
 import "./index.css"
 
 function App(){
