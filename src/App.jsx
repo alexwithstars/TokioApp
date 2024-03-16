@@ -7,14 +7,13 @@ import { Gastronomia } from "./Gastronomia"
 import "./index.css"
 
 function App(){
-	console.log(location.pathname)
 	return(
 		<Routes>
-			<Route path='/' element={<Home/>}/>
-			<Route path='/turismo' element={<Turismo/>}/>
-			<Route path='/cultura' element={<Cultura/>}/>
-			<Route path='/historia' element={<Historia/>}/>
-			<Route path='/gastronomia' element={<Gastronomia/>}/>
+			<Route path='/TokioApp/' element={<Home/>}/>
+			<Route path='/TokioApp/turismo' element={<Turismo/>}/>
+			<Route path='/TokioApp/cultura' element={<Cultura/>}/>
+			<Route path='/TokioApp/historia' element={<Historia/>}/>
+			<Route path='/TokioApp/gastronomia' element={<Gastronomia/>}/>
 			<Route path='*' element={<h1>No hay	</h1>}/>
 		</Routes>
 	)
