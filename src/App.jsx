@@ -7,6 +7,7 @@ import { Gastronomia } from "./Gastronomia"
 import "./index.css"
 
 function App(){
+	console.log(location.pathname)
 	return(
 		<Routes>
 			<Route path='/' element={<Home/>}/>
